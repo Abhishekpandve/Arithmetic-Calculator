@@ -31,3 +31,5 @@ This is a python project to help show how python works!:
 ```
 
 Side note: I'm learning python myself, so i may occasionally make some programming mistakes! Bear with me! :')
+Credits: 
+Abhishekpandve
